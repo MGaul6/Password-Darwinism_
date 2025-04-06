@@ -1,0 +1,11 @@
+word,Token,meaning,category
+123,123,numeric sequence,number
+abc,Abc,alphabetic sequence,letters
+password,Password,common password,dictionary
+qwerty,Qwerty,keyboard pattern,pattern
+iloveyou,Iloveyou,common phrase,phrase
+admin,Admin,admin related,admin
+letmein,Letmein,access related,access
+welcome,Welcome,greeting,greeting
+dragon,Dragon,fantasy word,fantasy
+sunshine,Sunshine,positive word,emotion
